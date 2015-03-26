@@ -1,1 +1,1 @@
-from tests1 import *
+from tdd1 import *
