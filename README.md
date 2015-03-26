@@ -14,7 +14,7 @@ Implementación: Arreglo (nativo) de tripletas (nativas)
 
 ## Autor Original
 
-*[JC](https://github.com/jaceee/)*
+*[JC](https://github.com/jaceee/)*  
 jace.casas@gmail.com
 
 
